@@ -1,0 +1,56 @@
+================================================================================
+                              BONUS FEATURES
+                             ADVENTURE WORLD
+================================================================================
+
+Student: YUVAL ALEXANDRONY
+ID: 322218033
+
+================================================================================
+WHAT I ADDED
+================================================================================
+
+1. COLORS
+   -------
+   - All objects have colors
+   - Bombs flash when about to explode
+   - Switches change color when toggled
+   - Can turn colors off in menu (option 3)
+   - Game works fine without colors too
+
+2. SMART ENEMIES & SWORD
+   --------------
+   - Enemies chase the closest player (By ABS)
+   - They find path around walls
+   - If you have sword they die, otherwise you lose life
+   - They move every 2 game cycles ( not too fast ) by EntityManager  
+    - Defeat: By Bomb or sword 
+
+
+3. RANDOM TELEPORTS
+   -----------------
+   - Teleports send you to random other teleport
+   - Not just fixed pairs
+   - Makes game more interesting
+
+4. SAVEMANAGER SYSTEM:
+    -----------------
+    - SAVE/LOAD complete game state (all levels, not just current)
+    - Preserves: player positions, inventories, lives, scores
+    - Preserves: object states (destroyed enemies, collected items, switch states)
+    - SAVE-  by (ESC -> 2 ) save copy and save all screens to (savedGame.txt) 
+    - LOAD-  by (MENU -> 2 ) LOAD the saved state & screens from (savedGame.txt) 
+
+5. CLEAN CODE
+   -----------
+   - Used smart pointers (no memory leaks)
+   - Organized into manager classes
+   - Each object type has its own file
+
+================================================================================
+
+ID: 322218033
+
+================================================================================
+
+

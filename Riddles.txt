@@ -1,0 +1,36 @@
+Freezing point of water (Celsius)?|0
+Capital of France?|PARIS
+Opposite of UP?|DOWN
+2 ^ 4 = ?|16
+Sun color?|YELLOW
+Capital of Israel?|JERUSALEM
+6 ^ 4 = ?|1296
+Best code language?|C++
+Sky color?|BLUE
+Start of everything?|BIGBANG
+Square root of 144?|12
+What comes down but never goes up?|RAIN
+Binary representation of 5?|101
+Capital of Japan?|TOKYO
+Largest planet in solar system?|JUPITER
+5 factorial (5!) = ?|120
+Hardest natural substance?|DIAMOND
+Which month has 28 days?|ALL
+Boiling point of water (Celsius)?|100
+Red planet?|MARS 
+What gets wetter as it dries?|TOWEL
+Capital of UK?|LONDON
+3 * 98 = ?|294
+Opposite of Cold?|HOT
+Number of continents?|7
+H2O is commonly known as?|WATER
+2 ^ 6 = ?|64
+King of the jungle?|LION
+Smallest prime number?|2
+What goes up but never comes down?|AGE
+How many legs does a spider have?|8
+Number of Colors in a rainbow?|7 
+Fastest land animal?|CHEETAH 
+Binary representation of 2?|10
+Solid state of water?|ICE
+

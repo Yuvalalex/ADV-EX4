@@ -1,0 +1,82 @@
+1 7.2
+20 5 2 0 1 0 0 0
+72 4 3 0 0 0 0 0
+3
+1
+                                                                                
+                                                                                
+                                                                                
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW 
+W       ?                  WWWWWWWWWWWWWWWWWWWWWWWWWWWW          ?   !        W 
+W                    W       W      W      W      W       W      W            W 
+WWWWWWWWWWWWWWWWWWWWWW              K                     W      WWWWWWWWWWWWWW 
+W                    W       WWWWWWWWWWWWWWWWWWWWWW       W      W      K     W 
+W                   W       W                    W        W      W            W 
+W   ** ** W       W         K          W       W      W             W         W 
+W   * @ * W       W                    W       W      W             W   @     W 
+W   ***** W       W     WWWWWWWWW    ?WWWWW    W      W             W         W 
+W                     WW     W      W      W      W       W      W            W 
+WWWWWWWWWWWWWWWWWWWWWW       ?      W      W      W       W      W            W 
+W                            W      W      W      W              W            W 
+W          WWWWWWWWWWWWWWWWWWW      W      W      WWWWWWWWWWWWWWWW            W 
+W          W                        W      W                                  W 
+W          W      WWWWWWWWWWWWWWWWWWW      WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW     W 
+W          W      W %                                          @              W 
+W     @    W      W        **********************************************     W 
+W          W      W        **********************************************     W 
+W   @      W      W   @    ************** X  ****************************     W 
+W          W      W        **********************************************     W 
+W          W      W        **********************************************     W 
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW 
+2
+                                                                                
+                                                                                
+                                                                                
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW 
+W                    W                                   W                    W 
+W         *          W         %      |    %             W          *         W 
+W    K    *    K     W                                   W     K    *    K    W 
+WWWWW  WWWWWWWW  WWWWWWWWWWWWWWWW   WWWWW   WWWWWWWWWWWWWWWWWWW  WWWWWWWW  WWWW 
+W         ^                    W     ^     W                    ^             W 
+W   X!    ^    ?               W     ^     W               ?    ^    !  X     W 
+W         ^                    W     ^     W                    ^             W 
+WWWWWWWWWWWWWWW  WWWWWWWWWWWWWWW     ^     WWWWWWWWWWWWWWW    WWWWWWWWWWWWWWWWW 
+W                 W            W     ^     W            W                     W 
+W                 W            W     ^     W            W                     W 
+W    @       @    W     %      W     ^     W      %     W            @        W 
+W                 W            W           W            W                     W 
+WWWWWWW   WWWWWWWWWWWWW   WWWWWWWWWW   WWWWWWWWWW   WWWWWWWWWWWWW   WWWWWWWWWWW 
+W    ^    ^    W    K    W    ?    D   D    ?    W    K    W    W    ^        W 
+W    ^    ^    W         W         W   W         W         W    W    ^        W 
+WWWWWWWWWWWWWWWW   WWWWWWWWWWWWWWWWWW   WWWWWWWWWWWWWWWWWWW   WWWW?WWWWWWWWWWWW 
+W    #    ?    *    *    *    *    W   W    *    *    *    *   ***       #####W 
+W  \ #    W                        W % W                       ***       #####W 
+W    #    W                    WWWWWWDWWWWWW         ?         ***       #####W 
+W   KKK   W                        W X W                        W   KKK  ?   \W 
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW 
+3
+                                                                                
+                                                                                
+                                                                                
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW 
+W     K                W           %           W                K             W 
+W      *    *          W                       W          *    *              W 
+W      *    *    !     W     ^           ^     W     !    *    *              W 
+WWWWWWWWWWWWWWWW  WWWWWW     ^           ^     WWWWWW  WWWWWWWWWWWWWWWWWWWWWWWW 
+W         ?            W     ^           ^     W            ?                 W 
+W                      W     ^           ^     W                              W 
+W    @    K    @       W     WWWWWW WWWWWW     W       @    K    @            W 
+WWWWWWWWWWWWWWWWWWWW   W           %           W   WWWWWWWWWWWWWWWWWWWWWWWWWWWW 
+W                  W   W                       W   W                          W 
+W    ^        ^    W   WWWWWWWWWWWDWWWWWWWWWWWWW   W    ^        ^            W 
+W    ^   %%   ^    W       %      K                W    ^   %    ^       %    W 
+W    ^        ^    W   WWWWWWWWWWWDWWWWWWWWWWWWW   W    ^        ^            W 
+W                  W   W                       W   W                          W 
+WWWWW   WWWWWWWWWWWW   W     *    *    *       W   WWWWWWWWWWWW    WWWWWWWWWWWW 
+W   W        W         W     *    *    *       W         W        W           W 
+W \ W   ?    W    #    W     %    ?            W    #    W    ?   W           W 
+W   W        W    #    W                       W    #    W        W       \   W 
+W       K    W    #    WWWWWWWWWWWDWWWWWWWWWWWWW    #    W    K   ?           W 
+W   W        W         W         X             W         W        W           W 
+W   W        W    @    W    %    X    %        W    @    W    |   W           W 
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW 
