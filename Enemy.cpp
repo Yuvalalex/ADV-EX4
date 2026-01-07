@@ -16,7 +16,7 @@ void Enemy::move(Screen& screen, Player& p1, Player& p2) {
     int dist1 = std::abs(p1.getPosition().getX() - location.getX()) + std::abs(p1.getPosition().getY() - location.getY());
     int dist2 = std::abs(p2.getPosition().getX() - location.getX()) + std::abs(p2.getPosition().getY() - location.getY());
 
-    if (!p2.isFinished() && p2.getLives() > 0 && (p1.isFinished() || dist2 < dist1)) {
+    if (!p2.isFinished() && p2.getLives() > 0 && (p1.isFinished() || p1.getLives() <= 0 || dist2 < dist1)) {
         target = &p2;
     }
 
