@@ -18,9 +18,9 @@ private:
     // Core managers
     ScreenGameManager screenGameManager;
     MenuManager menuManager;
-    InputManager inputManager;
     PhysicsManager physicsManager;
     EntityManager entityManager;
+    InputManager inputManager;
 
     // Players
     Player p1;
@@ -66,7 +66,7 @@ private:
     // Game loop phases
     void runGameLoop();
     void processGameTick();
-    void renderFrame();
+    void renderFrame(Screen& currentScreen);
 
     // Game initialization
     void resetGame();
@@ -78,4 +78,5 @@ private:
     void loadPrevLevel();
     void handleLevelTransitions();
     void setupPlayersForLevel(Screen* currentScreen);
+    void setupPlayersForLevel(Screen* currentScreen, Point position);
 };

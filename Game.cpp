@@ -14,7 +14,8 @@
 Game* Game::instance = nullptr;
 
 Game::Game()
-    : p1(0, 0, CHAR_PLAYER_1, 1, Color::LIGHTCYAN),
+    : inputManager(menuManager),
+    p1(0, 0, CHAR_PLAYER_1, 1, Color::LIGHTCYAN),
     p2(0, 0, CHAR_PLAYER_2, 2, Color::LIGHTMAGENTA),
     status(GameStatus::MENU),
     gameTick(0),
